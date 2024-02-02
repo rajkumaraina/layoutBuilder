@@ -1,0 +1,26 @@
+.layoutContainer {
+  background-color: #475569;
+  padding: 8px;
+  height: 100%;
+  padding-left: 85px;
+}
+.Heading {
+  font-size: 30px;
+}
+.white {
+  color: #ffffff;
+}
+.unordered {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+.listItem {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.labelElement {
+  margin: 8px;
+  color: #ffffff;
+}
